@@ -1,0 +1,646 @@
+*
+{
+  margin: 0;
+  padding: 0;  
+}
+#header-wrapper {
+  background-color: #fff;
+}
+.top-header {
+  padding: 5px 0px;
+}
+
+#mybody{
+  background-color: lightgray;
+}
+body {
+   background-color: lightgray;
+}
+#header-section-1 {
+  background-color: #0d0d0d;
+    height: 30px;
+    line-height: 16px;
+    color: #e2e2e2;
+}
+#header-section-2 {
+  padding-top: 15px;
+}
+
+.mydate{
+	float: right;
+  padding: 5px 0px;
+}
+.advertise {
+  padding-top: 20px;
+  min-width: 100%;
+  background-color: #ffffff;
+}
+.image-logo img{
+	width: 165px;
+	max-height: 74px;
+}
+.top-ad img{
+	width: 100%;
+	height: 92px;
+}
+#header-section-2 {
+     background-color: #fff;
+}
+.navbar-dark .navbar-brand {
+  color: red;
+}
+.navbar-dark .navbar-nav .nav-link {
+
+  color: #000000;
+}
+.bg-dark {
+  width: 100%;
+}
+.navbar-dark .navbar-toggler {
+  border: none;
+}
+.navbar-dark .navbar-toggler:active {
+  border: none;
+}
+.nav-toggler-button {
+  color:gray;
+}
+.navbar-dark .navbar-toggler-icon {
+  background-color: #000000;
+  border-radius: 2px;
+  /*background-image: url("data:image/svg+xml;..");*/
+}
+.bg-dark {
+  background-color: #ffffff !important;
+}
+.navbar-dark .navbar-brand:hover {
+  color: red;
+}
+.navbar-dark .navbar-brand:active {
+  color: red;
+}
+.navbar-dark .navbar-brand:focus {
+  color: red;
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+
+  color: #000000;
+}
+.navbar-dark .navbar-nav .nav-link:active {
+
+  color: #000000;
+}
+.navbar-dark .navbar-nav .nav-link:focus {
+
+  color: #000000;
+}
+
+/*.mynav{
+  min-width: 100%;
+  background-color: #ffffff;
+}*/
+/*#nav-bar{
+	float: left;
+}*/
+/*.navbar.navbar-expand-lg.navbar-light {
+ margin-left: 171px;
+}*/
+/*--------slider section------------*/
+.layout1{
+  width: 100%;
+  /*height: 462px;*/
+  padding-top: 60px;
+}
+/*.myslider {
+  width: 810px;
+  height: 462px;
+  
+}*/
+.myslider {
+  width: 100%;
+  height: 462px;
+}
+.sliderimg {
+  width: 100%;
+  height: 462px;
+}
+
+
+
+
+/*.layout1 .myslider .slick-dots{
+  bottom: 5px;
+}*/
+.slick-dots {
+  position: relative;
+  bottom: 30px;
+}
+.slick-dots li {
+  width: 10px;
+  height: 10px;
+}
+.layout1 .slick-slider .slick-prev{
+  display: none;
+}
+.slick-slider .slick-next{
+  display: none;
+}
+/*.sliderimg{
+  width: 810px;
+  height: 462px;
+  object-fit: cover;
+  padding-right: 70px;
+}*/
+ .sliderside img{
+  
+  margin-bottom: 2px;
+  width: 100%;
+  height: 230px;
+}
+/*.sliderside1 {
+  padding-left: 34px;
+}*/
+.sliderside {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.sliderside .btn {
+  position: absolute;
+  bottom: 77px;
+  left: 16px;
+  z-index: 99;
+  background-color: #ff0000;
+  color: #ffffff;
+  border-radius: 0;
+}
+.mytext {
+  position: absolute;
+  bottom: 45px;
+  left: 16px;
+  z-index: 99;
+}
+.mytext2 {
+  position: absolute;
+  bottom: 23px;
+  left: 16px;
+  z-index: 99;
+}
+.mytime {
+  position: absolute;
+  bottom: 10px;
+  left: 16px;
+  z-index: 99;
+}
+.slick-prev {
+  left: 10px;
+}
+.slick-next {
+  right: 25px;
+}
+.slick-prev::before {
+  font-size: 33px;
+
+}
+
+.slick-next::before {
+   font-size: 33px;
+}
+/*--------layer2-----------*/
+.layout2 {
+  padding-top: 90px;
+}
+.seretext {
+  position: relative;
+  top: 13px;
+}
+.textheight {
+  height: 110px;
+}
+.textside {
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.textside1 {
+   position: relative;
+    right: 141px;
+    bottom: -33px;
+}
+.texttime {
+   position: relative;
+    left: 150px;
+    bottom: 42px;
+}
+.layout-one {
+  width: 100%;
+  background-color: #ffffff;
+  margin-left: 0px;
+  padding-top: 25px;
+  padding-bottom: 25px; 
+}
+.layout-one h6{
+  padding-top: 15px;
+}
+.layout-one p {
+  margin-top: 7px;
+}
+.heading2 {
+  padding-left: 25px;
+}
+.first-sport-article{
+     object-fit: cover;
+    position: relative;
+    width: 100%;
+    height: 200px;
+}
+.sport-second-article{
+  height: 110px;
+  width: 100%;
+  object-fit: cover;
+}
+.sportside1 img{
+  /*position: relative;
+  left: 15px;*/
+  width: 100%;
+  height: 322px;
+  border:10px solid white;
+  object-fit: cover;
+}
+.layout-two      {
+  width: 100%;
+  margin-top: 20px;
+  margin-left: 0px;
+  padding-top: 10px;
+  background-color: #ffffff;
+}
+.layout-two h6 {
+  padding-top: 15px;
+}
+.layout-two p {
+  margin-top: 7px;
+}
+.layout-two .first-politic-article {
+  width: 100%;
+  height: 110px;
+  object-fit: cover;
+}
+.layout-politic {
+  padding-bottom: 10px;
+}
+.mylayout2 {
+  width: 100%;
+}
+.todaynews{
+  position: absolute;
+  left: 0px;
+  width: 180px;
+  height: 60px;
+  background-color: #1187D9;
+  color: white;
+  padding-bottom: 5px;
+}
+.topnews {
+  margin: 20px 0px;
+  width: 100%;
+  background-color: #ffffff;
+}
+.myheadlines {
+  margin-top: 70px;
+  margin-bottom: 10px;
+}
+.sportside2 img{
+  width: 100%;
+  height: 212px;
+  border:10px solid white;
+  object-fit: cover;
+  margin: 17px 0px;
+}
+
+/*-------------jumbotron-------------*/
+.w-20 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 20% !important;
+    flex: 0 0 20% !important;
+    max-width: 20%;
+    padding: 0;
+   /* min-width: 100%;*/
+}
+
+.d-flex.flex-wrap.myfivecol {
+  width: 100%;
+  border:10px solid white;
+  background-color: lightgray;
+  color: #ffffff;
+
+}
+.items-img {
+  padding: 10px 0px;
+  height: 200px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.overlay {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background: #0000004d;
+  top: 0px;
+}
+.layout-third-item {
+   padding: 0px 10px;
+   position: relative;
+}
+.card.card-body.w-20 {
+    background-color: lightgray;
+    
+}
+/*.flex-wrap.myfivecol {
+  border:10px solid white;
+}*/
+.layout-four {
+  background-color: #ffffff;
+  margin-top: 20px;
+}
+.layout-four-left-read {
+  position: relative;
+  left: 110px;
+}
+.layout-side-one{
+  width: 100%;
+    background-color: #ffffff;
+    margin-left: 0px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.layout-five {
+  margin-top: 30px;
+  background-color: #ffffff;
+}
+#section-four {
+  margin: 20px 0px;
+}
+
+.mymiddle {
+  width: 100%;
+  height: 110px;
+}
+.mylatest {
+  padding-top: 70px;
+  padding-left: 20px;
+}
+.mylatest1 {
+  padding-left: 20px;
+}
+.mylatest2 {
+  padding-left: 20px;
+}
+.mysport5 {
+  background-color: #ffffff;
+  margin-left: 0px;
+}
+.mysport5 h6{
+  padding-top: 10px;
+}
+.mysport5 img {
+  position: relative;
+  bottom: -9px;
+}
+.sport7 img {
+  position: relative;
+  bottom: -9px;
+  object-fit: cover;
+}
+/*.sport77 img {
+  position: relative;
+  bottom: -9px;
+  width: 405px;
+  object-fit: cover;
+}*/
+.sport7{
+  position: relative;
+  bottom: 90px;
+  width: 380px;
+  height: 200px;
+  padding-right: 50px;
+}
+
+.follow .fa {
+  padding-right: 10px;
+  color: red;
+}
+.layout-footer-middle {
+  position: relative;
+  left: 150px;
+}
+.form-email {
+  height: 40px;
+  width: 250px;
+}
+.form-inline .form-btn {
+  width: 100px;
+  height: 40px;
+  background-color: 1589ff;
+  border: none;
+}
+.footer-section {
+  padding-top: 30px;
+  color: #ffffff;
+}
+#footer-layout {
+  background-color: #000000;
+  padding-bottom: 50px;
+  margin-bottom: 82px;
+}
+.copyright-footer {
+  background-color: #0C090A;
+  color: #ffffff;
+  text-align: center;
+}
+.layout-footer-middle ul {
+  list-style: none;
+}
+.footer-menu-heading {
+  margin-top: 15px;
+}
+.footer-menu-heading ul li {
+  font-size: 12px;
+}
+.footer-section .image-logo {
+  margin-bottom: 15px;
+}
+.form-btn {
+  color: #ffffff;
+}
+/*-----------media query-----------*/
+@media screen and (max-width: 768px) {
+   
+   }
+
+/* On screens that are 768px or less, set the background color to olive */
+@media screen and (max-width: 576px) {
+  .image-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-bottom: 15px;
+}
+ 
+ .idate {
+  min-width: 100%;
+  background-color: #0d0d0d;
+ }   
+.mydate {
+   position: relative;
+  bottom: 20px;
+}
+.sliderimg {
+  width: 100%;
+  padding: 0;
+}
+.mybody {
+  min-width: 100%;
+  padding: 0;
+}
+.slick-prev::before {
+  font-size: 22px;
+
+}
+
+.slick-next::before {
+   font-size: 22px;
+}
+.layout-one-right-item-img {
+  width: 41.67%;
+
+}
+.layout-one-right-item-img .sport-second-article {
+  height: 90px;
+}
+.layout-one-right-item-content {
+  width: 58.33%;
+}
+.mylayout2 {
+  margin-top: 20px;
+}
+.w-20 {
+  min-width: 100%;
+}
+.layout-footer-middle {
+  position: relative;
+  left: 0px;
+}
+.layout-footer-middle {
+  padding-top: 15px;
+}
+
+    
+}
+
+@media screen and (max-width: 768px) {
+   .no-padding-right {
+  padding-right: 0;
+}
+  .no-padding-left {
+  padding-left: 0;
+}
+.layout1 {
+  margin:0px;
+}
+.myslider {
+  height: 300px;
+}
+.myslider img {
+  object-fit: cover;
+}
+.form-email {
+  width: 230px;
+}
+
+/*.w-20 {
+  min-width: 50%;
+}*/
+}
+@media screen and (min-width: 768px) {
+  .no-padding-right {
+  padding-right: 0px;
+}
+.layout1 {
+  padding-right: 0px;
+}
+.sliderside1 {
+  padding: 0px;
+}
+
+}
+.navbar-toggler{
+  border:none!important;
+  border-color:none;
+}
+.navbar-toggler:focus, .navbar-toggler:active {
+    outline: none;
+    box-shadow: none;
+  }
+
+
+span.navbar-toggler-icon{
+ background-image:none!important;
+   border:none!important;
+}
+.navbar-toggler-icon:before{
+  
+   -webkit-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    transition: all .3s ease;
+    position: absolute;
+    top: 16px;
+    right: 20px;
+    display: block;
+    height: 2px;
+    width: 20px;
+    background: #1187D9;
+    border-top: 2px solid #1187D9;
+    border-bottom: 2px solid #1187D9;
+    content: '';
+}
+  .navbar-toggler-icon:after{
+  background: #1187D9;
+  position: absolute;
+    top: 22px;
+    right: 20px;
+    display: block;
+    height: 4px;
+    width: 20px;
+    border-top: 2px solid #1187D9;
+    border-bottom: 2px solid #1187D9;
+    content: '';
+}
+.nav-add-bar .navbar-toggler-icon:before{
+    top: 23px;
+    background: #1187D9;
+    width: 19px;
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    border-top: none;
+    border-bottom: none;
+}         
+.nav-add-bar .navbar-toggler-icon:after{
+      -webkit-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    transition: all .3s ease;
+    top: 23px;
+    border: 0;
+    height: 2px;
+    width: 19px;
+    background: #1187D9;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+
+}
